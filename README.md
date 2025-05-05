@@ -4,7 +4,7 @@ A machine learning-powered web app built with **Streamlit** to detect Parkinson'
 
 ## 🚀 Demo
 
-![App UI](https://parkinson-detector-by-prameyraje.streamlit.app/)  
+![App UI] (https://parkinson-detector-by-prameyraje.streamlit.app/)  
 > Horizontal layout with both **manual input** and **CSV upload** features.
 
 ## 📌 Overview
