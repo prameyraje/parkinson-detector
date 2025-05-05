@@ -2,6 +2,11 @@
 
 A machine learning-powered web app built with **Streamlit** to detect Parkinson's Disease based on voice measurements.
 
+## 🚀 Demo
+
+![App UI](https://parkinson-detector-by-prameyraje.streamlit.app/)  
+> Horizontal layout with both **manual input** and **CSV upload** features.
+
 ## 📌 Overview
 
 This project uses biomedical voice measurements to determine whether a person has Parkinson's Disease. The app allows users to:
